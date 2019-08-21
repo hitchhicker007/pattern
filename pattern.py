@@ -1,3 +1,4 @@
+//simple pattern using turtle python library Made by Hitch Hicker
 import turtle
 t = turtle.Turtle()
 sc=turtle.Screen()
