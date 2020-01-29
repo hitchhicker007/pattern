@@ -2,10 +2,10 @@
 written by Hitch Hicker.
 simple pattern script in python using turtle graphics.
 
-**Requirements**
+**##Requirements**
 python3
 
-**Usage**
+**##Usage :**
 ```
 git clone https://github.com/hitchhicker007/pattern.git 
 cd pattern
