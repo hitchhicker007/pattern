@@ -11,3 +11,5 @@ git clone https://github.com/hitchhicker007/pattern.git
 cd pattern
 python pattern.py
 ```
+## Screenshot:
+![Demo](demo/pattern.gif)
